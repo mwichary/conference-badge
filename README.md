@@ -3,7 +3,7 @@
 This is a bunch of scripts to make conference badges in InDesign, a companion to [this article](https://medium.com/p/db6fa0925c5b).
 
 ### Preparing
-- Download and install [Montserrat font](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
+- Download and install [Lato TTF font](http://www.latofonts.com/lato-free-fonts/)
 - If you expect people to be using emoji on their badges, download and install one of the emoji fonts (e.g. [Color Noto Emoji](https://www.google.com/get/noto/help/emoji/))
 - Open InDesign, open Scripts panel (Window | Utilities | Scripts), right click on User, click on Reveal in Finder, move “Badges.js” from this repo to that folder.
 
