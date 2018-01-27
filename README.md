@@ -13,7 +13,7 @@ This is a bunch of scripts to make conference badges in InDesign, a companion to
 - Open the resulting CSV in a text editor (e.g. Sublime), and File > Save With Encoding > UTF-16 LE (InDesign will only understand UTF-16, sigh)
 
 ### Merging the file with data
-- Open InDesign file “Badges.indd”.
+- Open InDesign file “Badges (front).indd”.
 
 - Open Data Merge pane (Window | Utilities | Data Merge).
 - Click on three lines in the upper right corner, choose Select Data Source… (If you’ve done this once already, use Use Data Source, and skip below to Created Merged Document…)
