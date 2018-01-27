@@ -5,7 +5,7 @@ This is a bunch of scripts to make conference badges in InDesign, a companion to
 ### Preparing
 - Download and install [Montserrat font](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
 - If you expect people to be using emoji on their badges, download and install one of the emoji fonts (e.g. [Color Noto Emoji](https://www.google.com/get/noto/help/emoji/))
-- Open InDesign, open Scripts panel (Window | Utilities | Scripts), right click on User, click on Reveal in Finder, move "Badges.js" from this repo to that folder.
+- Open InDesign, open Scripts panel (Window | Utilities | Scripts), right click on User, click on Reveal in Finder, move “Badges.js” from this repo to that folder.
 
 ### Exporting spreadsheet as CSV
 - Make a list of people in the Google Spreadsheet or elsewhere (look at the included CSV file for an expected format)
@@ -13,7 +13,7 @@ This is a bunch of scripts to make conference badges in InDesign, a companion to
 - Open the resulting CSV in a text editor (e.g. Sublime), and File > Save With Encoding > UTF-16 LE (InDesign will only understand UTF-16, sigh)
 
 ### Merging the file with data
-- Open InDesign file Badges.indd.
+- Open InDesign file “Badges.indd”.
 
 - Open Data Merge pane (Window | Utilities | Data Merge).
 - Click on three lines in the upper right corner, choose Select Data Source… (If you’ve done this once already, use Use Data Source, and skip below to Created Merged Document…)
